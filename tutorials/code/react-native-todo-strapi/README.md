@@ -25,7 +25,12 @@ To start up the strapi backend, open the `react-native-todo-strapi` folder in yo
 yarn develop
 ```
 
+> The strapi development server requires you to login to the admin dashboard to modify anything.
+> 
+> This project uses the following details:
+> 
 > **Email**: random@email.com
+> 
 > **Password**: Random@123
 
 Then, begin mobile emulation by opening the `TodoApp` folder in another termial, and running the command below:
