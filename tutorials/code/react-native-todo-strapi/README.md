@@ -1,6 +1,6 @@
 # Introduction
 
-![Cover](https://github.com/fabio-nettis/react-native-todo-strapi-tutorial/blob/master/screenshots/article-cover-medium.png?raw=true)
+![Cover](https://miro.medium.com/max/700/1*xfE5LRRQ-Nw3grYHMooxrQ.png)
 
 This repo is a project for the strapi blog on [Creating a react-native app with Strapi as your backend](https://strapi.io/blog/creating-a-react-native-app-with-strapi-as-backend).
 
